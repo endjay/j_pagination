@@ -30,6 +30,8 @@ Or install it yourself as:
 
 ## Usage
 
+put this method on your view
+
 ```ruby
 j_paging({result data you get from api},current_page,limit,total,{will_paginate options})
 
