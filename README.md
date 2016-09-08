@@ -1,6 +1,6 @@
 # JPagination
 
-Hi, j_paginationn is more like a easy way to use will_paginate  and  helping you do less setting i hope its helping , thanks
+Hi, j_pagination is more likely  a easy way to use will_paginate  and  helping you do less setting i hope its helping , thanks
 
 
 ## Installation
